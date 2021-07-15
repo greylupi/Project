@@ -1,4 +1,3 @@
-import nmap
 import nmap3
 import argparse
 import sys
